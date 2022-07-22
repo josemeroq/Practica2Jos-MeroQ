@@ -1,0 +1,5 @@
+E:\Programas C#\practica2JoseMeroQ\obj\Debug\netcoreapp3.1\practica2JoseMeroQ.csproj.AssemblyReference.cache
+E:\Programas C#\practica2JoseMeroQ\obj\Debug\netcoreapp3.1\practica2JoseMeroQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas C#\practica2JoseMeroQ\obj\Debug\netcoreapp3.1\practica2JoseMeroQ.AssemblyInfoInputs.cache
+E:\Programas C#\practica2JoseMeroQ\obj\Debug\netcoreapp3.1\practica2JoseMeroQ.AssemblyInfo.cs
+E:\Programas C#\practica2JoseMeroQ\obj\Debug\netcoreapp3.1\practica2JoseMeroQ.csproj.CoreCompileInputs.cache
